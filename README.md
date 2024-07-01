@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming FrontEnd Web Developer.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: vlad40nikiforov@gmail.com
 
 <!---
 VladNikiforov/VladNikiforov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
