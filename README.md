@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @VladNikiforov.
-- 👀 I’m interested in becoming a Web Developer.
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: vlad40nikiforov@gmail.com
-
-<!---
-VladNikiforov/VladNikiforov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like programming random stuff for fun and for using them
