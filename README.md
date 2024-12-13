@@ -1,1 +1,1 @@
-I like programming random stuff for fun and for using them
+I like making random stuff
