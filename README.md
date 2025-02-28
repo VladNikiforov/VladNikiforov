@@ -1,6 +1,6 @@
-#Hey there! 🍉
+<h1>Hey there! 🍉</h1>
 
-I'm a Front-End Web Dev 
+I'm a Front-End Web Dev <br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
