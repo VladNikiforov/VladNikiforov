@@ -1,6 +1,6 @@
 <h1>Hey there! 🍉</h1>
 
-I'm *mostly* Front-End Web Dev <br>
+I'm *mostly* a Front-End Web Dev <br>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
