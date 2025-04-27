@@ -17,5 +17,3 @@ I'm *mostly* a Front-End Web Dev <br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladNikiforov&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-<img src="https://vladnikiforov.github.io/ascii-art/screenshot.png" style="max-width: 100%; display: block;">
