@@ -11,7 +11,7 @@ I'm *mostly* a Front-End Web Dev <br>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
 <div align="left">
