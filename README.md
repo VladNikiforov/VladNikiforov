@@ -8,10 +8,11 @@ I'm *mostly* a Front-End Web Dev <br>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 <div align="left">
